@@ -2,7 +2,6 @@
 <h1 align="center">Simple Discord Mass Report Bot</h1>
 
 # Modules used:
-<br>
 requests
 <br>
 colorama
